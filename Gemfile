@@ -34,3 +34,7 @@ end
 gem 'sneakers'
 
 gem 'bunny'
+
+gem 'redis-rails'
+
+gem 'redis-namespace'
